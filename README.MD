@@ -4,7 +4,7 @@
 --------------
 
 # اکبر حمیدی
-- PNU_4001_AR(https://github.com/akbar-hamidi/PNU_4001_AR)
+- [PNU_4001_AR](https://github.com/akbar-hamidi/PNU_4001_AR)
 - [Resume](https://github.com/akbar-hamidi/PNU_4001_AR/blob/main/hamidi-akbar-rezomeh-master/) 
  
 - [SOP](https://saharzeinivand.github.io/Sop/)
