@@ -8,7 +8,7 @@
 - [Resume](https://github.com/akbar-hamidi/PNU_4001_AR/blob/main/hamidi-akbar-rezomeh-master/)  
 - [SOP](https://github.com/akbar-hamidi/PNU_4001_AR/blob/main/SOP/SOP.pdf)
 
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
+- [Certificates](https://github.com/akbar-hamidi/PNU_4001_AR/blob/main/Certication/cert-24725967-1024.pdf)
 - [GitHub](https://github.com/saharzeinivand)
 
 
