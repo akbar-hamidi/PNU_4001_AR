@@ -9,7 +9,7 @@
 - [SOP](https://akbar-hamidi.github.io/Sop/)
 
 - [Certificates](https://github.com/akbar-hamidi/PNU_4001_AR/blob/main/Certication/cert-24725967-1024.pdf)
-- [GitHub](https://github.com/saharzeinivand)
+- [GitHub](https://github.com/akbar-hamidi)
 
 
 </div>
