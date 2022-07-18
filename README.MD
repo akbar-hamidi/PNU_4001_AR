@@ -128,7 +128,7 @@
     <th ></th>
     <th ></th>
     <th></th>
-    <th></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies#TOC">متدولوژی ایجاد نرم افزار</a></th>
      <th ><a >مطالعه دروس </a></th>
     <th>پنج شنبه</th>
   </tr>
