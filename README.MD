@@ -10,8 +10,7 @@
 
 - [Certificates](https://github.com/akbar-hamidi/PNU_4001_AR/blob/main/Certication/cert-24725967-1024.pdf)
 - [GitHub](https://github.com/akbar-hamidi)
-- [سمینار تتبع  طراحی واقعیت مجازی برای درک اثرات فیزیولوژی تجسم و روشهای چند حسی ](https://github.com/akbar-hamidi/Seminar_Tatabbo/blob/main/Seminar_TaTaBo_akbar_hamidi.pdf)
-
+- [Seminar_Tatabbo](https://github.com/akbar-hamidi/Seminar_Tatabbo)
 
 
 ------------------
